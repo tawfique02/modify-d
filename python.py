@@ -35,8 +35,8 @@ os.system("clear")
 os.system("figlet T-DdoS")
 print
 print "Coded By : Mr.Hamza"
-print "Author   : Stifen01"
-print "Telegram : t.me/https://t.me/+8i8l-hyZwpIzMTg9"
+print "Author   : Stifen"
+print "Telegram : t.me/https://t.me/+8i8"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
