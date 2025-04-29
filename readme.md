@@ -78,6 +78,16 @@
 Online  1 hrs 58 mins    █████████████████████████  100.00 %
 
 ```
+## 🚀 Projects
+- **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
+- **[Project 2](https://github.com/yourusername/project2):** Description of project 2.
+- **[Project 3](https://github.com/yourusername/project3):** Description of project 3.
+
+## 🌟 Achievements
+- **Achievement 1:** Description of my achievement.
+- **Achievement 2:** Description of my achievement.
+- **Achievement 3:** Description of my achievement.
+
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
 
