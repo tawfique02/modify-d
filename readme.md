@@ -1,18 +1,15 @@
-
-<div align="center"> 
-  <!-- Custom picoCTF Badges -->
-  ![picoCTF Rank](https://img.shields.io/badge/Rank-Top%20100-green)
-  ![picoCTF Points](https://img.shields.io/badge/Points%20Earned-10000%2B-blue)
-  ![picoCTF Challenges Solved](https://img.shields.io/badge/Challenges%20Solved-300%2B-orange)
-</div> 
-
 <div align="center">
-  <!-- Custom picoCTF Streak Stats -->
-  <img src="https://picoctf-stats.vercel.app/api/streak?username=tawfique&theme=github_dark&hide_border=true" alt="picoCTF Streak Stats">
+  <!-- Dynamic CodeChef Stats -->
+  <img src="https://codechef-readme-stats.vercel.app/api?username=tiding_dusk_01&theme=dark&hide_border=true" alt="CodeChef Stats"/>
 </div>
 
-![picoCTF Rank](https://img.shields.io/badge/Rank-Top%20100-green)
-![picoCTF Points](https://img.shields.io/badge/Points%20Earned-10000%2B-blue)
-![picoCTF Challenges Solved](https://img.shields.io/badge/Challenges%20Solved-300%2B-orange)
+<div align="center">
+  <!-- Manual CodeChef Rating Badge -->
+  ![CodeChef Rating](https://img.shields.io/badge/CodeChef%20Rating-2000%2B-brightgreen)
 
-  <img src="https://picoctf-stats.vercel.app/api/streak?username=tawfique&theme=github_dark&hide_border=true" alt="picoCTF Streak Stats">
+  <!-- Manual CodeChef Rank Badge -->
+  ![CodeChef Rank](https://img.shields.io/badge/CodeChef%20Rank-5%2B-stars-blue)
+
+  <!-- Manual CodeChef Solved Problems Badge -->
+  ![CodeChef Solved Problems](https://img.shields.io/badge/Solved%20Problems-150%2B-orange)
+</div>
